@@ -1,4 +1,4 @@
-# This is repo containt an example how to build a Xenial64 - Vagrant box with NGINX and test it with kitchen.
+# This is repo contains an example of how to build a Xenial64 - Vagrant box with NGINX and test it with kitchen.
 
 ## Requirments:
 
